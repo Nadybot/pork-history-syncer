@@ -1,4 +1,4 @@
-FROM quay.io/nadyita/alpine:3.18
+FROM quay.io/nadyita/alpine:3.20
 
 LABEL maintainer="nadyita@hodorraid.org" \
       description="self-sustaining docker image to run sync pork-history change"
